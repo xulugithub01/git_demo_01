@@ -1,5 +1,5 @@
 hello, git!【我是master分支修改02】
-hello, git!
+hello, git!【我是hot-fix修改02】
 hello, git!
 4444444444444
 修改1：hot-fix分支修改 01
