@@ -3,3 +3,4 @@ hello, git!【我是hot-fix修改02】
 hello, git!
 4444444444444
 修改1：hot-fix分支修改 01
+修改2：直接在GitHub上远程修改的的内容哦。
